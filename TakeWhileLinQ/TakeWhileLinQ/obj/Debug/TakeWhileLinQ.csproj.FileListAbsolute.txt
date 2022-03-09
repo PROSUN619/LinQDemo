@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\bin\Debug\TakeWhileLinQ.exe.config
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\bin\Debug\TakeWhileLinQ.exe
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\bin\Debug\TakeWhileLinQ.pdb
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\obj\Debug\TakeWhileLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\obj\Debug\TakeWhileLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\obj\Debug\TakeWhileLinQ.exe
+D:\Demo Projects\LINQ\TakeWhileLinQ\TakeWhileLinQ\obj\Debug\TakeWhileLinQ.pdb

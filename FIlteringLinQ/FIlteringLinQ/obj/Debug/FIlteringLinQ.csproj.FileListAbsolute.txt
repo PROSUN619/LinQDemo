@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\bin\Debug\FIlteringLinQ.exe.config
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\bin\Debug\FIlteringLinQ.exe
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\bin\Debug\FIlteringLinQ.pdb
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\obj\Debug\FIlteringLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\obj\Debug\FIlteringLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\obj\Debug\FIlteringLinQ.exe
+D:\Demo Projects\LINQ\FIlteringLinQ\FIlteringLinQ\obj\Debug\FIlteringLinQ.pdb

@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\bin\Debug\SkipLinQ.exe.config
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\bin\Debug\SkipLinQ.exe
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\bin\Debug\SkipLinQ.pdb
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\obj\Debug\SkipLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\obj\Debug\SkipLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\obj\Debug\SkipLinQ.exe
+D:\Demo Projects\LINQ\SkipLinQ\SkipLinQ\obj\Debug\SkipLinQ.pdb

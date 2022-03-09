@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\bin\Debug\GroupJoinLinQ.exe.config
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\bin\Debug\GroupJoinLinQ.exe
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\bin\Debug\GroupJoinLinQ.pdb
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\obj\Debug\GroupJoinLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\obj\Debug\GroupJoinLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\obj\Debug\GroupJoinLinQ.exe
+D:\Demo Projects\LINQ\GroupJoinLinQ\GroupJoinLinQ\obj\Debug\GroupJoinLinQ.pdb

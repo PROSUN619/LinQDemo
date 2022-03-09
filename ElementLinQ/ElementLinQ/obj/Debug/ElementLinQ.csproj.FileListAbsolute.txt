@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\bin\Debug\ElementLinQ.exe.config
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\bin\Debug\ElementLinQ.exe
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\bin\Debug\ElementLinQ.pdb
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\obj\Debug\ElementLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\obj\Debug\ElementLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\obj\Debug\ElementLinQ.exe
+D:\Demo Projects\LINQ\ElementLinQ\ElementLinQ\obj\Debug\ElementLinQ.pdb

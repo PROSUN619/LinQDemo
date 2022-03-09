@@ -1,0 +1,7 @@
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\bin\Debug\PagingLinq.exe.config
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\bin\Debug\PagingLinq.exe
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\bin\Debug\PagingLinq.pdb
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\obj\Debug\PagingLinq.csproj.AssemblyReference.cache
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\obj\Debug\PagingLinq.csproj.CoreCompileInputs.cache
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\obj\Debug\PagingLinq.exe
+C:\Users\prosu\source\repos\PagingLinq\PagingLinq\obj\Debug\PagingLinq.pdb

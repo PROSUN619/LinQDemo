@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\bin\Debug\OfTypeLinq.exe.config
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\bin\Debug\OfTypeLinq.exe
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\bin\Debug\OfTypeLinq.pdb
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\obj\Debug\OfTypeLinq.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\obj\Debug\OfTypeLinq.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\obj\Debug\OfTypeLinq.exe
+D:\Demo Projects\LINQ\OfTypeLinq\OfTypeLinq\obj\Debug\OfTypeLinq.pdb

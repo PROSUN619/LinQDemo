@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\bin\Debug\LeftJoinLinQ.exe.config
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\bin\Debug\LeftJoinLinQ.exe
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\bin\Debug\LeftJoinLinQ.pdb
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\obj\Debug\LeftJoinLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\obj\Debug\LeftJoinLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\obj\Debug\LeftJoinLinQ.exe
+D:\Demo Projects\LINQ\LeftJoinLinQ\LeftJoinLinQ\obj\Debug\LeftJoinLinQ.pdb

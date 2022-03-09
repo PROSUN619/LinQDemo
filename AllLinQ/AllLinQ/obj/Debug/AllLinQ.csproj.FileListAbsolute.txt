@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\bin\Debug\AllLinQ.exe.config
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\bin\Debug\AllLinQ.exe
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\bin\Debug\AllLinQ.pdb
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\obj\Debug\AllLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\obj\Debug\AllLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\obj\Debug\AllLinQ.exe
+D:\E LEARNING\LINQ\AllLinQ\AllLinQ\obj\Debug\AllLinQ.pdb

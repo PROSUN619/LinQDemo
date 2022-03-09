@@ -1,0 +1,6 @@
+D:\Demo Projects\LINQ\IEnumerableVsIQuerable\IEnumerableVsIQuerable\bin\Debug\IEnumerableVsIQuerable.exe.config
+D:\Demo Projects\LINQ\IEnumerableVsIQuerable\IEnumerableVsIQuerable\bin\Debug\IEnumerableVsIQuerable.exe
+D:\Demo Projects\LINQ\IEnumerableVsIQuerable\IEnumerableVsIQuerable\bin\Debug\IEnumerableVsIQuerable.pdb
+D:\Demo Projects\LINQ\IEnumerableVsIQuerable\IEnumerableVsIQuerable\obj\Debug\IEnumerableVsIQuerable.csprojResolveAssemblyReference.cache
+D:\Demo Projects\LINQ\IEnumerableVsIQuerable\IEnumerableVsIQuerable\obj\Debug\IEnumerableVsIQuerable.exe
+D:\Demo Projects\LINQ\IEnumerableVsIQuerable\IEnumerableVsIQuerable\obj\Debug\IEnumerableVsIQuerable.pdb

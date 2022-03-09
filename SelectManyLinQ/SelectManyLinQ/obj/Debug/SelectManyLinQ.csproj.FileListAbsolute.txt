@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\bin\Debug\SelectManyLinQ.exe.config
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\bin\Debug\SelectManyLinQ.exe
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\bin\Debug\SelectManyLinQ.pdb
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\obj\Debug\SelectManyLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\obj\Debug\SelectManyLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\obj\Debug\SelectManyLinQ.exe
+D:\E LEARNING\LINQ\SelectManyLinQ\SelectManyLinQ\obj\Debug\SelectManyLinQ.pdb

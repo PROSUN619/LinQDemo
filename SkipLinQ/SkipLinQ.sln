@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipLinQ", "SkipLinQ\SkipLinQ.csproj", "{5485DCB3-9BA3-4764-B5DF-7A5B20523D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5485DCB3-9BA3-4764-B5DF-7A5B20523D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5485DCB3-9BA3-4764-B5DF-7A5B20523D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5485DCB3-9BA3-4764-B5DF-7A5B20523D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5485DCB3-9BA3-4764-B5DF-7A5B20523D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB5F87F-D8CB-4BA9-A8C7-3FC18BA1EC18}
+	EndGlobalSection
+EndGlobal

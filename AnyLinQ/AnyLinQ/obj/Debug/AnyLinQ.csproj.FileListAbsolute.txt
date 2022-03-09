@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\bin\Debug\AnyLinQ.exe.config
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\bin\Debug\AnyLinQ.exe
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\bin\Debug\AnyLinQ.pdb
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\obj\Debug\AnyLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\obj\Debug\AnyLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\obj\Debug\AnyLinQ.exe
+D:\E LEARNING\LINQ\AnyLinQ\AnyLinQ\obj\Debug\AnyLinQ.pdb

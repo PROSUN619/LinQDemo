@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\bin\Debug\LastOrDefaultLinQ.exe.config
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\bin\Debug\LastOrDefaultLinQ.exe
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\bin\Debug\LastOrDefaultLinQ.pdb
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\obj\Debug\LastOrDefaultLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\obj\Debug\LastOrDefaultLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\obj\Debug\LastOrDefaultLinQ.exe
+D:\Demo Projects\LINQ\LastOrDefaultLinQ\LastOrDefaultLinQ\obj\Debug\LastOrDefaultLinQ.pdb

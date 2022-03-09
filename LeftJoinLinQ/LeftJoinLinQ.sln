@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftJoinLinQ", "LeftJoinLinQ\LeftJoinLinQ.csproj", "{191E62AF-D626-4F59-A095-E8E6B7F6AAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191E62AF-D626-4F59-A095-E8E6B7F6AAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191E62AF-D626-4F59-A095-E8E6B7F6AAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191E62AF-D626-4F59-A095-E8E6B7F6AAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191E62AF-D626-4F59-A095-E8E6B7F6AAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF32FAF8-AC9D-4DCA-8F18-D82ECDF5EE64}
+	EndGlobalSection
+EndGlobal

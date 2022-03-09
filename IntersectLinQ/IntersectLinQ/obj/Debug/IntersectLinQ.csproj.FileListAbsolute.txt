@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\bin\Debug\IntersectLinQ.exe.config
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\bin\Debug\IntersectLinQ.exe
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\bin\Debug\IntersectLinQ.pdb
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\obj\Debug\IntersectLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\obj\Debug\IntersectLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\obj\Debug\IntersectLinQ.exe
+D:\E LEARNING\LINQ\IntersectLinQ\IntersectLinQ\obj\Debug\IntersectLinQ.pdb

@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\bin\Debug\SelectLinQ.exe.config
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\bin\Debug\SelectLinQ.exe
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\bin\Debug\SelectLinQ.pdb
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\obj\Debug\SelectLinQ.exe
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\obj\Debug\SelectLinQ.pdb
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\obj\Debug\SelectLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\SelectLinQ\SelectLinQ\obj\Debug\SelectLinQ.csproj.CoreCompileInputs.cache

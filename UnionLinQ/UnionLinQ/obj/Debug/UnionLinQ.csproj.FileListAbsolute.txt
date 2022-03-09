@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\bin\Debug\UnionLinQ.exe.config
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\bin\Debug\UnionLinQ.exe
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\bin\Debug\UnionLinQ.pdb
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\obj\Debug\UnionLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\obj\Debug\UnionLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\obj\Debug\UnionLinQ.exe
+D:\E LEARNING\LINQ\UnionLinQ\UnionLinQ\obj\Debug\UnionLinQ.pdb

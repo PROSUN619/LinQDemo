@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\bin\Debug\DistinctLinQ.exe.config
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\bin\Debug\DistinctLinQ.exe
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\bin\Debug\DistinctLinQ.pdb
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\obj\Debug\DistinctLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\obj\Debug\DistinctLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\obj\Debug\DistinctLinQ.exe
+D:\E LEARNING\LINQ\DistinctLinQ\DistinctLinQ\obj\Debug\DistinctLinQ.pdb

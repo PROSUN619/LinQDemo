@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\bin\Debug\ReverseLinQ.exe.config
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\bin\Debug\ReverseLinQ.exe
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\bin\Debug\ReverseLinQ.pdb
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\obj\Debug\ReverseLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\obj\Debug\ReverseLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\obj\Debug\ReverseLinQ.exe
+D:\E LEARNING\LINQ\ReverseLinQ\ReverseLinQ\obj\Debug\ReverseLinQ.pdb

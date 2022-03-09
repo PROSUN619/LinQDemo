@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\bin\Debug\ContainLinQ.exe.config
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\bin\Debug\ContainLinQ.exe
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\bin\Debug\ContainLinQ.pdb
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\obj\Debug\ContainLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\obj\Debug\ContainLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\obj\Debug\ContainLinQ.exe
+D:\E LEARNING\LINQ\ContainLinQ\ContainLinQ\obj\Debug\ContainLinQ.pdb

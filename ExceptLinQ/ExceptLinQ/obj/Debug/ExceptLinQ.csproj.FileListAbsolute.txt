@@ -1,0 +1,7 @@
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\bin\Debug\ExceptLinQ.exe.config
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\bin\Debug\ExceptLinQ.exe
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\bin\Debug\ExceptLinQ.pdb
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\obj\Debug\ExceptLinQ.csproj.AssemblyReference.cache
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\obj\Debug\ExceptLinQ.csproj.CoreCompileInputs.cache
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\obj\Debug\ExceptLinQ.exe
+D:\E LEARNING\LINQ\ExceptLinQ\ExceptLinQ\obj\Debug\ExceptLinQ.pdb

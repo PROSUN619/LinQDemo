@@ -1,0 +1,7 @@
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\bin\Debug\TakeLinQ.exe.config
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\bin\Debug\TakeLinQ.exe
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\bin\Debug\TakeLinQ.pdb
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\obj\Debug\TakeLinQ.csproj.AssemblyReference.cache
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\obj\Debug\TakeLinQ.csproj.CoreCompileInputs.cache
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\obj\Debug\TakeLinQ.exe
+D:\Demo Projects\LINQ\TakeLinQ\TakeLinQ\obj\Debug\TakeLinQ.pdb

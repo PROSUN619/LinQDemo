@@ -1,0 +1,6 @@
+D:\Demo Projects\LINQ\SimpleLinqDemo\SimpleLinqDemo\bin\Debug\SimpleLinqDemo.exe.config
+D:\Demo Projects\LINQ\SimpleLinqDemo\SimpleLinqDemo\bin\Debug\SimpleLinqDemo.exe
+D:\Demo Projects\LINQ\SimpleLinqDemo\SimpleLinqDemo\bin\Debug\SimpleLinqDemo.pdb
+D:\Demo Projects\LINQ\SimpleLinqDemo\SimpleLinqDemo\obj\Debug\SimpleLinqDemo.csprojResolveAssemblyReference.cache
+D:\Demo Projects\LINQ\SimpleLinqDemo\SimpleLinqDemo\obj\Debug\SimpleLinqDemo.exe
+D:\Demo Projects\LINQ\SimpleLinqDemo\SimpleLinqDemo\obj\Debug\SimpleLinqDemo.pdb
